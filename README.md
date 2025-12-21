@@ -1,5 +1,7 @@
 # ReName
 
+![ReName Screenshot](img/Rename01.png)
+
 ReName es una utilidad de escritorio desarrollada en VB.NET para el renombrado masivo y eficiente de archivos, diseñada para facilitar la organización de grandes colecciones de datos.
 
 ## Descripción
