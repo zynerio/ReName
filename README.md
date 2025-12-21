@@ -32,7 +32,6 @@ Esta aplicación permite tomar una lista de nombres base (Lista A) y aplicarlos 
 
 - Sistema Operativo: Windows 7/8/10/11
 - Framework: .NET Framework 4.8.1 o superior
-- Visual Studio 2015 (para compilar el código fuente)
 
 ## Uso
 
