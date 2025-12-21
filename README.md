@@ -42,7 +42,11 @@ Esta aplicación permite tomar una lista de nombres base (Lista A) y aplicarlos 
 3. **Verificar**: Asegúrate de que el orden de los archivos en ambas listas esté alineado correctamente. Puedes borrar ítems incorrectos con `Suprimir`.
 4. **Renombrar**: Haz clic en el botón central de renombrado. Confirma la operación y revisa el resultado.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b-fPwl4lBEg?si=Bg6N68M310eTGBRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://github.com/user-attachments/assets/4735bd84-d607-4d86-859c-028ce1409b01
+
+
+
 
 ## Autor
 
