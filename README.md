@@ -41,8 +41,9 @@ Esta aplicación permite tomar una lista de nombres base (Lista A) y aplicarlos 
 2. **Cargar Archivos a Renombrar (Lista B)**: Arrastra los archivos que deseas modificar al panel derecho.
 3. **Verificar**: Asegúrate de que el orden de los archivos en ambas listas esté alineado correctamente. Puedes borrar ítems incorrectos con `Suprimir`.
 4. **Renombrar**: Haz clic en el botón central de renombrado. Confirma la operación y revisa el resultado.
+5. 
+[![Ejemplo de uso](https://markdown-videos.deta.dev/youtube/b-fPwl4lBEg)](https://www.youtube.com/watch?v=b-fPwl4lBEg)
 
-https://youtu.be/b-fPwl4lBEg
 
 ## Autor
 
