@@ -47,8 +47,3 @@ Esta aplicación permite tomar una lista de nombres base (Lista A) y aplicarlos 
 https://github.com/user-attachments/assets/4735bd84-d607-4d86-859c-028ce1409b01
 
 [Enlace al Video](https://www.youtube.com/watch?v=b-fPwl4lBEg)
-
-
-## Autor
-
-Desarrollado por Zynerio.
